@@ -1,0 +1,28 @@
+{
+  "name": "phpunit-quick-test",
+  "type": "CLI",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Daniel C.",
+      "email": "bitclaw@gmail.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/bitclaw/phpunit-quick-test"
+  },
+  "description": "phpunit-quick-test",
+  "homepage": "https://bitclaw.github.io",
+  "require": {
+    "php": ">=5.4.4",
+    "symfony/console": "~2.5.6"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "*"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "dev-master"
+    }
+  }
+}
